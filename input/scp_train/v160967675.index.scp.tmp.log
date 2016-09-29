@@ -1,0 +1,7 @@
+----------------------------------
+Version Information : EHT1.0 
+SVN Revision: $Rev: 626 $ 
+Comand Arauments: 
+  /disk0/lixu/0_vad/bin/data_pack  /disk0/lixu/scp_train/v160967675.index.scp.tmp  ./pak/v160967675.pak  /disk0/lixu/0_vad/bin/config.packup.file  268435456
+----------------------------------
+write final data
